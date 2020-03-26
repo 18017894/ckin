@@ -6,7 +6,7 @@
 
 #### 安装教程
 
-1.  将所有文件clone到你的web服务器
+1.  将所有文件clone或下载[发行版](https://gitee.com/zyc18017894/ckin/releases)到你的web服务器
     ```
     git clone https://gitee.com/zyc18017894/ckin.git
     ```
@@ -28,6 +28,19 @@
 2.  Fork本仓库
 
 如果喜欢记得star一下哦，您的star是给我的最大的支持。
+
+#### 项目截图
+- 页面主体
+![](https://images.gitee.com/uploads/images/2020/0326/183233_9cf53625_5726352.jpeg)
+
+- 细节
+![](https://images.gitee.com/uploads/images/2020/0326/183301_9438c9a3_5726352.jpeg)
+![](https://images.gitee.com/uploads/images/2020/0326/183333_feb4a894_5726352.jpeg)
+![](https://images.gitee.com/uploads/images/2020/0326/183347_e45ff0da_5726352.jpeg)
+![](https://images.gitee.com/uploads/images/2020/0326/183358_48f38758_5726352.jpeg)
+
+- 全屏界面
+![](https://images.gitee.com/uploads/images/2020/0326/183416_63f0b2e7_5726352.jpeg)
 
 $\color{#FF0000}{TODO:}$
 1.  使视频文件支持更多
