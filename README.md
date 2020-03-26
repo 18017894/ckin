@@ -2,7 +2,12 @@
 
 #### 介绍
 一个由js编写的简便化播放器。
+
 [查看效果](http://blog.zyczy.com.cn/demo)
+
+[项目官方gitee仓库](https://gitee.com/zyc18017894/ckin)
+
+[项目官方github仓库](https://github.com/18017894/ckin)
 
 #### 安装教程
 
