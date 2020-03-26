@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="zh-cn">
+
+<head>
+    <div id="container"></div>
+    <script src="../../errorPages/erreo/runner.js"></script>
+    <script>
+        initRunner('#container');
+    </script>
+</head>
+
+<body id="t" style="font-family: 'Segoe UI',Arial,'Microsoft Yahei',sans-serif; font-size: 75%" jstcache="0">
+    <div id="main-message" jstcache="0">
+        <h1 jstcache="0">
+            <span jsselect="heading" jsvalues=".innerHTML:msg" jstcache="10">权限不足--401</span>
+            <a id="error-information-button" class="hidden" onclick="toggleErrorInformationPopup();" jstcache="0"></a>
+        </h1>
+        <p jsselect="summary" jsvalues=".innerHTML:msg" jstcache="2">权限不足--401</p>
+        <div id="error-information-popup-container" jstcache="0">
+            <div id="error-information-popup" jstcache="0">
+                <div id="error-information-popup-box" jstcache="0">
+                    <div id="error-information-popup-content" jstcache="0">
+                        <div id="suggestions-list"
+                            jsdisplay="(suggestionsSummaryList &amp;&amp; suggestionsSummaryList.length)" jstcache="17">
+                        </div>
+                        <p id="error-information-popup-close" jstcache="0">
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="diagnose-frame" class="hidden" jstcache="0"></div>
+        <div id="download-links-wrapper" class="hidden" jstcache="0">
+            <div id="download-link-wrapper" jstcache="0">
+                <a id="download-link" class="link-button" onclick="downloadButtonClick()" jsselect="downloadButton"
+                    jscontent="msg" jsvalues=".disabledText:disabledMsg" jstcache="6" style="display: none;">
+                </a>
+            </div>
+            <div id="download-link-clicked-wrapper" class="hidden" jstcache="0">
+                <div id="download-link-clicked" class="link-button" jsselect="downloadButton" jscontent="disabledMsg"
+                    jstcache="12" style="display: none;">
+                </div>
+            </div>
+        </div>
+        <div id="offline-content-list" class="list-hidden" hidden="" jstcache="0">
+            <div id="offline-content-list-visibility-card" onclick="toggleOfflineContentListVisibility(true)"
+                jstcache="0">
+                <div id="offline-content-list-title" jsselect="offlineContentList" jscontent="title" jstcache="13"
+                    style="display: none;">
+                </div>
+                <div jstcache="0">
+                    <div id="offline-content-list-show-text" jsselect="offlineContentList" jscontent="showText"
+                        jstcache="15" style="display: none;">
+                    </div>
+                    <div id="offline-content-list-hide-text" jsselect="offlineContentList" jscontent="hideText"
+                        jstcache="16" style="display: none;">
+                    </div>
+                </div>
+            </div>
+            <div id="offline-content-suggestions" jstcache="0"></div>
+            <div id="offline-content-list-action" jstcache="0">
+                <a class="link-button" onclick="launchDownloadsPage()" jsselect="offlineContentList"
+                    jscontent="actionText" jstcache="14" style="display: none;">
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
