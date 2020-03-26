@@ -9,6 +9,8 @@
 
 [项目官方github仓库](https://github.com/18017894/ckin)
 
+[项目官方阿里仓库](https://code.aliyun.com/18017894/ckin)
+
 #### 安装教程
 
 1.  将所有文件clone或下载[发行版](https://gitee.com/zyc18017894/ckin/releases)到你的web服务器
@@ -17,6 +19,9 @@
     ```
     ```
     git clone https://github.com/18017894/ckin.git
+    ```
+    ```
+    git clone https://code.aliyun.com/18017894/ckin.git
     ```
 2.  查看index.html
 3.  按照index.html的方式进行初始化
