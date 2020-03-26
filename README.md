@@ -31,7 +31,7 @@
 
 1.  如发现有Bug，请提交Issues
 2.  Fork本仓库
-3.  本项目以与2020/3/26在gitee完成捐赠审核，欢迎[$\color{#00BFFF}{捐赠}$](https://gitee.com/zyc18017894/ckin#%E6%8D%90%E8%B5%A0)
+3.  本项目以与2020/3/26在gitee完成捐赠审核，欢迎[捐赠](https://gitee.com/zyc18017894/ckin#%E6%8D%90%E8%B5%A0)
 
 如果喜欢记得star一下哦，您的star是给我的最大的支持。
 
@@ -48,7 +48,7 @@
 - 全屏界面
 ![](https://images.gitee.com/uploads/images/2020/0326/183416_63f0b2e7_5726352.jpeg)
 
-$\color{#FF0000}{TODO:}$
+WTODO:
 1.  使视频文件支持更多
 2.  美化进度条
 
