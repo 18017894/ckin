@@ -13,7 +13,7 @@
 
 #### 安装教程
 
-1.  将所有文件clone或下载[发行版](https://gitee.com/zyc18017894/ckin/releases)到你的web服务器
+1.  将所有文件clone或下载[发行版](https://gitee.com/zyc18017894/ckin/releases)到你的web服务器~
     ```
     git clone https://gitee.com/zyc18017894/ckin.git
     ```
