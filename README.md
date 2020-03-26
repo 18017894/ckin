@@ -1,7 +1,7 @@
 # chin
 
 #### 介绍
-一个由js编写的简便化播放器。
+一个由js编写的简便化播放器~
 
 [查看效果](http://blog.zyczy.com.cn/demo)
 
