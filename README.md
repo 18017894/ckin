@@ -9,10 +9,12 @@
 1.  将所有文件clone到你的web服务器
     ```
     git clone https://gitee.com/zyc18017894/ckin.git
+    ```
+    ```
     git clone https://github.com/18017894/ckin.git
     ```
-2.  查看demo.html
-3.  按照demo.html的方式进行初始化
+2.  查看index.html
+3.  按照index.html的方式进行初始化
 
 #### 使用说明
 
@@ -27,3 +29,6 @@
 
 如果喜欢记得star一下哦，您的star是给我的最大的支持。
 
+$\color{#FF0000}{TODO:}$
+1.  使视频文件支持更多 ×
+2.  美化进度条        ×
