@@ -24,7 +24,7 @@
     git clone https://code.aliyun.com/18017894/ckin.git
     ```
 2.  查看index.html
-3.  按照index.html的方式进行初始化
+3.  导入您的视频文件.mp4，并在index.html中更改视频文件的路径
 
 #### 使用说明
 
