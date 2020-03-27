@@ -53,7 +53,7 @@
 - 全屏界面
 ![](https://images.gitee.com/uploads/images/2020/0326/183416_63f0b2e7_5726352.jpeg)
 
-WTODO:
+TODO:
 1.  使视频文件支持更多
 2.  美化进度条
 
