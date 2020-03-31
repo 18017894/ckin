@@ -35,7 +35,7 @@
 #### 参与贡献
 
 1.  如发现有Bug，请提交Issues
-2.  Fork本仓库
+2.  [![Fork me on Gitee](https://gitee.com/zyc18017894/ckin/widgets/widget_3.svg)](https://gitee.com/zyc18017894/ckin)
 3.  本项目以与2020/3/26在gitee完成捐赠审核，欢迎[捐赠](https://gitee.com/zyc18017894/ckin#%E6%8D%90%E8%B5%A0)
 
 如果喜欢记得[![star](https://gitee.com/zyc18017894/ckin/badge/star.svg?theme=white)](https://gitee.com/zyc18017894/ckin/stargazers)一下哦，您的[![star](https://gitee.com/zyc18017894/ckin/badge/star.svg?theme=white)](https://gitee.com/zyc18017894/ckin/stargazers)是给我的最大的支持~
